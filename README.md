@@ -1,5 +1,6 @@
 # OS-Install-Guide  
-各OSのインストール手順（ブータブルUSBの作成）  
+各OSのインストール手順（[ブータブルUSB](https://e-words.jp/w/%E8%B5%B7%E5%8B%95%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2.html#google_vignette)をPCに挿入し起動
+    1. [BIOS (UEFI)](https://www.pc-master.jp/jisaku/bios-uefi.html)の作成）  
 
 # [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu)
 
