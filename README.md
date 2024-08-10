@@ -31,6 +31,9 @@
     1. [Chrome ウェブストア](https://chromewebstore.google.com/)にアクセス
     1. [Chromebook リカバリ ユーティリティ](https://chromewebstore.google.com/detail/chromebook-%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/pocpnlppkickgojjlmhdmidojbmbodfm)を検索し [Chromeに追加]-[拡張機能を追加]
     1. [![image](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408102043.webp)]-[[Chromebook リカバリ ユーティリティ](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408102043.webp)] を選択し [始める]
+    1. [Chromebookの識別] 画面で [リストからモデルを選択] し次の通り設定し [続行]  
+        * メーカーを選択：Google ChromeOS Flex
+        * 製品を選択：ChromeOS Flex
     1. XXX
 
 ### （注意）この項目は現在編集中です
