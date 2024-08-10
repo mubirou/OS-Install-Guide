@@ -30,7 +30,7 @@
     1. [Google Chrome](https://www.google.com/intl/ja/chrome/)から[Googleアカウント](https://accounts.google.com/)にログイン
     1. [Chrome ウェブストア](https://chromewebstore.google.com/)にアクセス
     1. [Chromebook リカバリ ユーティリティ](https://chromewebstore.google.com/detail/chromebook-%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/pocpnlppkickgojjlmhdmidojbmbodfm)を検索し [Chromeに追加]-[拡張機能を追加]
-    1. ![image](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408102043.webp)-[[Chromebook リカバリ ユーティリティ](https://chromewebstore.google.com/detail/chromebook-%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/pocpnlppkickgojjlmhdmidojbmbodfm)]
+    1. ![image](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408102043.webp)-[[Chromebook リカバリ ユーティリティ](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408102043.webp)]
 
 ### （注意）この項目は現在編集中です
 
