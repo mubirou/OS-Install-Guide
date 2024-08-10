@@ -1,5 +1,6 @@
 # OS-Install-Guide
 
+
 ## [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu)
 
 1. [ISOイメージファイル](https://ja.wikipedia.org/wiki/ISO%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8)の用意
@@ -14,10 +15,12 @@
     1. USBメモリ (8GB以上) をPCに挿す
     1. [選択] から上記のISOイメージファイルを選択し [スタート] (下図)  
     ![image](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408101450.webp)  
+    1. [ISOイメージモードで書き込む (推奨)] を選択
 
 実行環境：Windows 11、[Ubuntu 24.04 LTS](https://wiki.ubuntu.com/NobleNumbat/ReleaseNotes/Ja)、[Rufus 4.5](https://rufus.ie/ja/)  
 作成者：夢寐郎  
 作成日：2024年08月10日
+
 
 ## [ChromeOS Flex](https://ja.wikipedia.org/wiki/ChromeOS_Flex)
 
