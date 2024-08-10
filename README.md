@@ -13,7 +13,7 @@
     1. "rufus-4.5.exe"を起動
     1. USBメモリ (8GB以上) をPCに挿す
     1. 各種設定  
-    ![image](https://github.com/mubirou/OS-Install-Guide/blob/main/webp/202408101450.webp)  
+    ![image](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408101450.webp)  
 
 実行環境：Windows 11、[Ubuntu 24.04 LTS](https://wiki.ubuntu.com/NobleNumbat/ReleaseNotes/Ja)、[Rufus 4.5](https://rufus.ie/ja/)  
 作成者：夢寐郎  
