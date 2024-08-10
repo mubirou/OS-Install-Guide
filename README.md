@@ -17,6 +17,12 @@
     ![image](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408101450.webp)  
     1. [ISOイメージモードで書き込む (推奨)] を選択
 
+1. インストール
+    1. 上記で作成した[ブータブルUSB](https://e-words.jp/w/%E8%B5%B7%E5%8B%95%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2.html#google_vignette)をPCに挿入し起動
+    1. [BIOS (UEFI)](https://www.pc-master.jp/jisaku/bios-uefi.html)を起動
+    1. USBメモリを優先的に起動させる
+    1. 指示に従ってUbuntuをインストール
+
 実行環境：Windows 11、[Ubuntu 24.04 LTS](https://wiki.ubuntu.com/NobleNumbat/ReleaseNotes/Ja)、[Rufus 4.5](https://rufus.ie/ja/)  
 作成者：夢寐郎  
 作成日：2024年08月10日
@@ -39,8 +45,10 @@
     1. "リカバリ メディアの作成が完了しました"と表示されたら [完了]！
 
 1. インストール
-
-### （注意）この項目は現在編集中です
+    1. 上記で作成した[ブータブルUSB](https://e-words.jp/w/%E8%B5%B7%E5%8B%95%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2.html#google_vignette)をPCに挿入し起動
+    1. [BIOS (UEFI)](https://www.pc-master.jp/jisaku/bios-uefi.html)を起動
+    1. USBメモリを優先的に起動させる
+    1. 指示に従ってChromeOS Flexをインストール
 
 実行環境：Windows 11、[ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/)、Google Chrome 127、[Chromebook リカバリ ユーティリティ](https://chromewebstore.google.com/detail/chromebook-%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/pocpnlppkickgojjlmhdmidojbmbodfm)  
 作成者：夢寐郎  
