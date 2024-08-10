@@ -1,4 +1,5 @@
-# OS-Install-Guide
+# OS-Install-Guide  
+各OSのインストール手順  
 
 ## [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu)
 
