@@ -29,7 +29,7 @@
 
 # [ChromeOS Flex](https://ja.wikipedia.org/wiki/ChromeOS_Flex)
 
-* ChromeOS Flex＝シンプル性と軽量性を重視した[Linuxディストリビューション](https://ja.wikipedia.org/wiki/Linux%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
+* シンプル性と軽量性を重視した[Linuxディストリビューション](https://ja.wikipedia.org/wiki/Linux%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%AA%E3%83%93%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)のひとつ
 * [ChromeOSとの違い](https://support.google.com/chromeosflex/answer/11542901?hl=ja&ref_topic=11618314&sjid=9172043556111588356-AP)
 * [デバイスの最小要件](https://support.google.com/chromeosflex/answer/11552529?hl=ja&sjid=9172043556111588356-AP&visit_id=638588818416467419-2940016808&ref_topic=11551271&rd=1)など
 
