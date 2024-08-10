@@ -12,7 +12,7 @@
     1. "rufus-4.5.exe"を任意の場所に保存
     1. "rufus-4.5.exe"を起動
     1. USBメモリ (8GB以上) をPCに挿す
-    1. 各種設定  
+    1. [選択] から上記のISOイメージファイルを選択し [スタート] (下図)  
     ![image](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408101450.webp)  
 
 実行環境：Windows 11、[Ubuntu 24.04 LTS](https://wiki.ubuntu.com/NobleNumbat/ReleaseNotes/Ja)、[Rufus 4.5](https://rufus.ie/ja/)  
