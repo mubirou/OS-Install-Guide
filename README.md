@@ -33,7 +33,7 @@
 
 ### （注意）この項目は現在編集中です
 
-実行環境：Windows 11、Google Chrome 127、[ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/)、Chromebook リカバリ ユーティリティ  
+実行環境：Windows 11、[ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/)、Google Chrome 127、Chromebook リカバリ ユーティリティ  
 作成者：夢寐郎  
 作成日：2024年08月10日
 
