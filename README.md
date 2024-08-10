@@ -29,7 +29,7 @@
 
 # [ChromeOS Flex](https://ja.wikipedia.org/wiki/ChromeOS_Flex)
 
-* [ChromeOS](https://ja.wikipedia.org/wiki/ChromeOS)との違い
+* [ChromeOSとの違い](https://support.google.com/chromeosflex/answer/11542901?hl=ja&ref_topic=11618314&sjid=9172043556111588356-AP)
 * [デバイスの最小要件](https://support.google.com/chromeosflex/answer/11552529?hl=ja&sjid=9172043556111588356-AP&visit_id=638588818416467419-2940016808&ref_topic=11551271&rd=1)など
 
 1. [ブータブルUSB](https://e-words.jp/w/%E8%B5%B7%E5%8B%95%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2.html#google_vignette)の作成
