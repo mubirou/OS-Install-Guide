@@ -1,5 +1,5 @@
 # OS-Install-Guide  
-各OSのインストール手順  
+各OSのインストール手順 (ブータブルUSBの作成)  
 
 # [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu)
 
