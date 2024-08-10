@@ -1,7 +1,7 @@
 # OS-Install-Guide  
 各OSのインストール手順  
 
-## [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu)
+# [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu)
 
 1. [ISOイメージファイル](https://ja.wikipedia.org/wiki/ISO%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8)の用意
     1. [Ubuntuのダウンロード](https://jp.ubuntu.com/download)にアクセス
@@ -27,7 +27,7 @@
 作成者：夢寐郎  
 作成日：2024年08月10日
 
-## [ChromeOS Flex](https://ja.wikipedia.org/wiki/ChromeOS_Flex)
+# [ChromeOS Flex](https://ja.wikipedia.org/wiki/ChromeOS_Flex)
 
 * [ChromeOS](https://ja.wikipedia.org/wiki/ChromeOS)との違い
 * [デバイスの最小要件](https://support.google.com/chromeosflex/answer/11552529?hl=ja&sjid=9172043556111588356-AP&visit_id=638588818416467419-2940016808&ref_topic=11551271&rd=1)など
