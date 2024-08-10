@@ -29,13 +29,16 @@
 1. [ブータブルUSB](https://e-words.jp/w/%E8%B5%B7%E5%8B%95%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2.html#google_vignette)の作成
     1. [Google Chrome](https://www.google.com/intl/ja/chrome/)から[Googleアカウント](https://accounts.google.com/)にログイン
     1. [Chrome ウェブストア](https://chromewebstore.google.com/)にアクセス
-    1. [Chromebook リカバリ ユーティリティ](https://chromewebstore.google.com/detail/chromebook-%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/pocpnlppkickgojjlmhdmidojbmbodfm)を検索し [Chromeに追加]-[拡張機能を追加]
-    1. [![image](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408102043.webp)]-[[Chromebook リカバリ ユーティリティ](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408102043.webp)] を選択し [始める]
+    1. [**Chromebook リカバリ ユーティリティ**](https://chromewebstore.google.com/detail/chromebook-%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/pocpnlppkickgojjlmhdmidojbmbodfm)を検索し [Chromeに追加]-[拡張機能を追加]
+    1. [![image](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408102043.webp)]-[[**Chromebook リカバリ ユーティリティ](https://raw.githubusercontent.com/mubirou/OS-Install-Guide/master/webp/202408102043.webp)] を選択し [始める]
     1. [Chromebookの識別] 画面で [リストからモデルを選択] し次の通り設定し [続行]  
         * メーカーを選択：**Google ChromeOS Flex**
         * 製品を選択：ChromeOS Flex
     1. USBメモリをPCに挿す
     1. [使用するメディアを選択してください。] で上記のUSBメモリを選択し [続行]-[今すぐ作成]
+    1. "リカバリ メディアの作成が完了しました"と表示されたら [完了]！
+
+1. インストール
 
 ### （注意）この項目は現在編集中です
 
