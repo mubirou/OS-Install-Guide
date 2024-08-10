@@ -1,6 +1,5 @@
 # OS-Install-Guide
 
-
 ## [Ubuntu](https://ja.wikipedia.org/wiki/Ubuntu)
 
 1. [ISOイメージファイル](https://ja.wikipedia.org/wiki/ISO%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8)の用意
@@ -8,7 +7,7 @@
     1. [ダウンロード] を選択
     1. "ubuntu-24.04-desktop-amd64.iso" を任意の場所に保存（約5.7GB）
 
-1. [ブータブルUSB](https://japan.zdnet.com/glossary/exp/%E3%83%96%E3%83%BC%E3%82%BF%E3%83%96%E3%83%ABUSB/?s=4#:~:text=%E3%83%96%E3%83%BC%E3%82%BF%E3%83%96%E3%83%ABUSB%E3%81%A8%E3%81%AF%E3%80%81USB,%E3%81%A7%E5%AE%9F%E7%8F%BE%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82)の作成  
+1. [ブータブルUSB](https://e-words.jp/w/%E8%B5%B7%E5%8B%95%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2.html#google_vignette)の作成  
     1. [Rutus](https://rufus.ie/ja/) (ルーファス) にアクセス
     1. "rufus-4.5.exe"を任意の場所に保存
     1. "rufus-4.5.exe"を起動
@@ -21,10 +20,17 @@
 作成者：夢寐郎  
 作成日：2024年08月10日
 
-
 ## [ChromeOS Flex](https://ja.wikipedia.org/wiki/ChromeOS_Flex)
+
+* [ChromeOS](https://ja.wikipedia.org/wiki/ChromeOS)との違い
+* [デバイスの最小要件](https://support.google.com/chromeosflex/answer/11552529?hl=ja&sjid=9172043556111588356-AP&visit_id=638588818416467419-2940016808&ref_topic=11551271&rd=1)など
 
 1. XXX
 
+### （注意）この項目は現在編集中です
+
+実行環境：Windows 11、Google Chrome 127、[ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/)  
+作成者：夢寐郎  
+作成日：2024年08月10日
 
 © 2024 夢寐郎
