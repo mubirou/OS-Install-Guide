@@ -26,7 +26,10 @@
 * [ChromeOS](https://ja.wikipedia.org/wiki/ChromeOS)との違い
 * [デバイスの最小要件](https://support.google.com/chromeosflex/answer/11552529?hl=ja&sjid=9172043556111588356-AP&visit_id=638588818416467419-2940016808&ref_topic=11551271&rd=1)など
 
-1. XXX
+1. [ブータブルUSB](https://e-words.jp/w/%E8%B5%B7%E5%8B%95%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2.html#google_vignette)の作成
+    1. [Google Chrome](https://www.google.com/intl/ja/chrome/)から[Googleアカウント](https://accounts.google.com/)にログイン
+    1. [Chrome ウェブストア](https://chromewebstore.google.com/)にアクセス
+    1. "**Chromebook リカバリ ユーティリティ**"を検索し [Chromeに追加]-[拡張機能を追加]
 
 ### （注意）この項目は現在編集中です
 
