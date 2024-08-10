@@ -29,11 +29,11 @@
 1. [ブータブルUSB](https://e-words.jp/w/%E8%B5%B7%E5%8B%95%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2.html#google_vignette)の作成
     1. [Google Chrome](https://www.google.com/intl/ja/chrome/)から[Googleアカウント](https://accounts.google.com/)にログイン
     1. [Chrome ウェブストア](https://chromewebstore.google.com/)にアクセス
-    1. "**Chromebook リカバリ ユーティリティ**"を検索し [Chromeに追加]-[拡張機能を追加]
+    1. [Chromebook リカバリ ユーティリティ](https://chromewebstore.google.com/detail/chromebook-%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/pocpnlppkickgojjlmhdmidojbmbodfm)を検索し [Chromeに追加]-[拡張機能を追加]
 
 ### （注意）この項目は現在編集中です
 
-実行環境：Windows 11、[ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/)、Google Chrome 127、Chromebook リカバリ ユーティリティ  
+実行環境：Windows 11、[ChromeOS Flex](https://chromeenterprise.google/os/chromeosflex/)、Google Chrome 127、[Chromebook リカバリ ユーティリティ](https://chromewebstore.google.com/detail/chromebook-%E3%83%AA%E3%82%AB%E3%83%90%E3%83%AA-%E3%83%A6%E3%83%BC%E3%83%86%E3%82%A3%E3%83%AA%E3%83%86%E3%82%A3/pocpnlppkickgojjlmhdmidojbmbodfm)  
 作成者：夢寐郎  
 作成日：2024年08月10日
 
